@@ -1,0 +1,3 @@
+Hola Juan , Como va? Aca te hago la entrega del desafio que habia que incorporar motores de plantillas a nuestro proyecto.
+El motor de plantillas que mas me gusto fue Handlebars porque fue el que menos se me complico entender su sintaxis, ejs tambien esta bueno y no es complicado de entender, pero Pug fue el que mas complicado me parecio al meter la logica de js en sus plantillas.
+Pero fuera de eso me parecieron todos los motores de plantillas bastante interesantes y tambien como que te simplifican todo. Otra vez gracias por la ayuda de siempre Juan
