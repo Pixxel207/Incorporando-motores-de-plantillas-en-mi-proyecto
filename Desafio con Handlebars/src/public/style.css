@@ -1,0 +1,7 @@
+.contenedor{
+    margin-left: 200px !important;
+}
+.productos{
+    display: flex !important;
+    flex-direction: column !important;
+}

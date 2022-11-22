@@ -1,0 +1,8 @@
+<div>
+    <h3>Productos agregados al carrito</h3>
+    <% newProductos.forEach((productos)=>{ %> 
+            <p><%= productos.title  %> </p>
+            <p><%= productos.price  %> </p>
+            <img width="200" src= <%= productos.thumbnail  %>></img>
+    <% }) %> 
+</div>
